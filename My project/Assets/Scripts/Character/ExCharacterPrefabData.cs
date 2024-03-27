@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class ExCharacter1 : MonoBehaviour
+public class ExCharacterPrefabData : MonoBehaviour
 {
     public int Score;
     // Update is called once per frame
